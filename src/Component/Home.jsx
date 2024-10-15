@@ -236,7 +236,7 @@ const Home = () => {
                   isScrolled ? "hidden " : ""
                 }`}
               >
-                <button className="mr-4 text-2xl">Stays</button>
+                <button className="mr-4 text-2xl">Stays|shihab</button>
                 <button className="text-2xl">Experiences</button>
               </div>
 
